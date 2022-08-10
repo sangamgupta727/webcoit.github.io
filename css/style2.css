@@ -255,4 +255,12 @@ color: #6610f2 !important;
 }
 }
 
+@media only screen and (max-width: 767px){
+.featured-service-section .featured-service-image img {
+    display: block !important;
+    height: 100%;
+    margin-top: 0px;
+    /* width: 100%; */
+}
+}
 
