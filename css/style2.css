@@ -247,6 +247,12 @@ color: #6610f2 !important;
     right: 15px;
 
 }
+	.featured-service-section .featured-service-image img {
+    display: block !important;
+    height: 100%;
+    margin-top: 0px;
+    /* width: 100%; */
+}
 }
 
 
